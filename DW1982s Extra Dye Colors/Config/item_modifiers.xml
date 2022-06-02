@@ -1031,5 +1031,2210 @@
 		<property name="PickupJournalEntry" value="augmentGunsTip"/>
 	</item_modifier>
 
+	<item_modifier name="modDyeCherryBlossumPink" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,183,197"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,183,197"/>
+			<property name="CustomIconTint" value="255,183,197"/>
+			<property name="UMA.Overlay0Tint" value="255,183,197"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,183,197"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,183,197"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,183,197"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,183,197,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,183,197"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeNeonPink" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="199,36,177"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="199,36,177"/>
+			<property name="CustomIconTint" value="199,36,177"/>
+			<property name="UMA.Overlay0Tint" value="199,36,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,36,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,36,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,36,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="199,36,177,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,36,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeBlueScreenOfDeath" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="8,39,245"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="8,39,245"/>
+			<property name="CustomIconTint" value="8,39,245"/>
+			<property name="UMA.Overlay0Tint" value="8,39,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="8,39,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="8,39,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="8,39,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="8,39,245,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="8,39,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeOceanBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="0,94,184"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="0,94,184"/>
+			<property name="CustomIconTint" value="0,94,184"/>
+			<property name="UMA.Overlay0Tint" value="0,94,184"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,94,184"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,94,184"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,94,184"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="0,94,184,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,94,184"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeNeonFuchia" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="219,62,177"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="219,62,177"/>
+			<property name="CustomIconTint" value="219,62,177"/>
+			<property name="UMA.Overlay0Tint" value="219,62,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="219,62,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="219,62,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="219,62,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="219,62,177,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="219,62,177"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeUnbleachedSilk" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="229,158,109"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="229,158,109"/>
+			<property name="CustomIconTint" value="229,158,109"/>
+			<property name="UMA.Overlay0Tint" value="229,158,109"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="229,158,109"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="229,158,109"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="229,158,109"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="229,158,109,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="229,158,109"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeTrueBlack" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="0,0,0"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="0,0,0"/>
+			<property name="CustomIconTint" value="0,0,0"/>
+			<property name="UMA.Overlay0Tint" value="0,0,0"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,0,0"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,0,0"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,0,0"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="0,0,0,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,0,0"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeWhiteSmoke" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="245,245,245"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="245,245,245"/>
+			<property name="CustomIconTint" value="245,245,245"/>
+			<property name="UMA.Overlay0Tint" value="245,245,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="245,245,245,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeGainsboro" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="220,220,220"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="220,220,220"/>
+			<property name="CustomIconTint" value="220,220,220"/>
+			<property name="UMA.Overlay0Tint" value="220,220,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="220,220,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="220,220,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="220,220,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="220,220,220,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="220,220,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLightGray" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="211,211,211"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="211,211,211"/>
+			<property name="CustomIconTint" value="211,211,211"/>
+			<property name="UMA.Overlay0Tint" value="211,211,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="211,211,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="211,211,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="211,211,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="211,211,211,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="211,211,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeSilver" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="192,192,192"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="192,192,192"/>
+			<property name="CustomIconTint" value="192,192,192"/>
+			<property name="UMA.Overlay0Tint" value="192,192,192"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="192,192,192"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="192,192,192"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="192,192,192"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="192,192,192,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="192,192,192"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeDarkGray" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="169,169,169"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="169,169,169"/>
+			<property name="CustomIconTint" value="169,169,169"/>
+			<property name="UMA.Overlay0Tint" value="169,169,169"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="169,169,169"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="169,169,169"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="169,169,169"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="169,169,169,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="169,169,169"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeSnow" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,250,250"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,250,250"/>
+			<property name="CustomIconTint" value="255,250,250"/>
+			<property name="UMA.Overlay0Tint" value="255,250,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,250,250,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeAzure" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="240,255,255"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="240,255,255"/>
+			<property name="CustomIconTint" value="240,255,255"/>
+			<property name="UMA.Overlay0Tint" value="240,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="240,255,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeIvory" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,255,240"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,255,240"/>
+			<property name="CustomIconTint" value="255,255,240"/>
+			<property name="UMA.Overlay0Tint" value="255,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,255,240,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeHoneydew" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="240,255,240"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="240,255,240"/>
+			<property name="CustomIconTint" value="240,255,240"/>
+			<property name="UMA.Overlay0Tint" value="240,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="240,255,240,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,255,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeGhostWhite" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="248,248,255"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="248,248,255"/>
+			<property name="CustomIconTint" value="248,248,255"/>
+			<property name="UMA.Overlay0Tint" value="248,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="248,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="248,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="248,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="248,248,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="248,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeAliceBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="240,248,255"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="240,248,255"/>
+			<property name="CustomIconTint" value="240,248,255"/>
+			<property name="UMA.Overlay0Tint" value="240,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="240,248,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="240,248,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeFloralWhite" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,250,240"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,250,240"/>
+			<property name="CustomIconTint" value="255,250,240"/>
+			<property name="UMA.Overlay0Tint" value="255,250,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,250,240,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,250,240"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLavender" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="230,230,250"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="230,230,250"/>
+			<property name="CustomIconTint" value="230,230,250"/>
+			<property name="UMA.Overlay0Tint" value="230,230,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="230,230,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="230,230,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="230,230,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="230,230,250,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="230,230,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeMintCream" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="245,255,250"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="245,255,250"/>
+			<property name="CustomIconTint" value="245,255,250"/>
+			<property name="UMA.Overlay0Tint" value="245,255,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,255,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,255,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,255,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="245,255,250,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,255,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLightSteelBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="176,196,222"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="176,196,222"/>
+			<property name="CustomIconTint" value="176,196,222"/>
+			<property name="UMA.Overlay0Tint" value="176,196,222"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,196,222"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,196,222"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,196,222"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="176,196,222,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,196,222"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLightSlateGray" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="119,136,153"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="119,136,153"/>
+			<property name="CustomIconTint" value="119,136,153"/>
+			<property name="UMA.Overlay0Tint" value="119,136,153"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="119,136,153"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="119,136,153"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="119,136,153"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="119,136,153,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="119,136,153"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeSeaShell" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,245,238"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,245,238"/>
+			<property name="CustomIconTint" value="255,245,238"/>
+			<property name="UMA.Overlay0Tint" value="255,245,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,245,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,245,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,245,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,245,238,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,245,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyePapayaWhip" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,239,213"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,239,213"/>
+			<property name="CustomIconTint" value="255,239,213"/>
+			<property name="UMA.Overlay0Tint" value="255,239,213"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,239,213"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,239,213"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,239,213"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,239,213,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,239,213"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyePeachPuff" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,218,185"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,218,185"/>
+			<property name="CustomIconTint" value="255,218,185"/>
+			<property name="UMA.Overlay0Tint" value="255,218,185"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,218,185"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,218,185"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,218,185"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,218,185,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,218,185"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeNavajoWhite" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,222,173"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,222,173"/>
+			<property name="CustomIconTint" value="255,222,173"/>
+			<property name="UMA.Overlay0Tint" value="255,222,173"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,222,173"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,222,173"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,222,173"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,222,173,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,222,173"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeMoccasin" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,228,181"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,228,181"/>
+			<property name="CustomIconTint" value="255,228,181"/>
+			<property name="UMA.Overlay0Tint" value="255,228,181"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,181"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,181"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,181"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,228,181,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,181"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeRosyBrown" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="188,143,143"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="188,143,143"/>
+			<property name="CustomIconTint" value="188,143,143"/>
+			<property name="UMA.Overlay0Tint" value="188,143,143"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="188,143,143"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="188,143,143"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="188,143,143"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="188,143,143,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="188,143,143"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeAntiqueWhite" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="250,235,215"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="250,235,215"/>
+			<property name="CustomIconTint" value="250,235,215"/>
+			<property name="UMA.Overlay0Tint" value="250,235,215"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="250,235,215"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="250,235,215"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="250,235,215"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="250,235,215,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="250,235,215"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeViolet" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="238,130,238"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="238,130,238"/>
+			<property name="CustomIconTint" value="238,130,238"/>
+			<property name="UMA.Overlay0Tint" value="238,130,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="238,130,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="238,130,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="238,130,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="238,130,238,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="238,130,238"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeDarkViolet" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="148,0,211"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="148,0,211"/>
+			<property name="CustomIconTint" value="148,0,211"/>
+			<property name="UMA.Overlay0Tint" value="148,0,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="148,0,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="148,0,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="148,0,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="148,0,211,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="148,0,211"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeMediumVioletRed" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="199,21,133"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="199,21,133"/>
+			<property name="CustomIconTint" value="199,21,133"/>
+			<property name="UMA.Overlay0Tint" value="199,21,133"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,21,133"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,21,133"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,21,133"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="199,21,133,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="199,21,133"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeBlueViolet" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="138,43,226"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="138,43,226"/>
+			<property name="CustomIconTint" value="138,43,226"/>
+			<property name="UMA.Overlay0Tint" value="138,43,226"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="138,43,226"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="138,43,226"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="138,43,226"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="138,43,226,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="138,43,226"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLightSkyBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="135,206,250"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="135,206,250"/>
+			<property name="CustomIconTint" value="135,206,250"/>
+			<property name="UMA.Overlay0Tint" value="135,206,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="135,206,250,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,250"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeSkyBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="135,206,235"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="135,206,235"/>
+			<property name="CustomIconTint" value="135,206,235"/>
+			<property name="UMA.Overlay0Tint" value="135,206,235"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,235"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,235"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,235"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="135,206,235,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="135,206,235"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeDodgerBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="30,144,255"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="30,144,255"/>
+			<property name="CustomIconTint" value="30,144,255"/>
+			<property name="UMA.Overlay0Tint" value="30,144,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="30,144,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="30,144,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="30,144,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="30,144,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="30,144,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeDeepSkyBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="0,191,255"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="0,191,255"/>
+			<property name="CustomIconTint" value="0,191,255"/>
+			<property name="UMA.Overlay0Tint" value="0,191,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,191,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,191,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,191,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="0,191,255,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="0,191,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeMediumTurquoise" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="72,209,204"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="72,209,204"/>
+			<property name="CustomIconTint" value="72,209,204"/>
+			<property name="UMA.Overlay0Tint" value="72,209,204"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="72,209,204"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="72,209,204"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="72,209,204"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="72,209,204,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="72,209,204"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyePowderBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="176,244,230"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="176,244,230"/>
+			<property name="CustomIconTint" value="176,244,230"/>
+			<property name="UMA.Overlay0Tint" value="176,244,230"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,244,230"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,244,230"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,244,230"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="176,244,230,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="176,244,230"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeCadetBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="95,158,160"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="95,158,160"/>
+			<property name="CustomIconTint" value="95,158,160"/>
+			<property name="UMA.Overlay0Tint" value="95,158,160"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="95,158,160"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="95,158,160"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="95,158,160"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="95,158,160,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="95,158,160"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeBeige" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="245,245,220"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="245,245,220"/>
+			<property name="CustomIconTint" value="245,245,220"/>
+			<property name="UMA.Overlay0Tint" value="245,245,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="245,245,220,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="245,245,220"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeBisque" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,228,196"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,228,196"/>
+			<property name="CustomIconTint" value="255,228,196"/>
+			<property name="UMA.Overlay0Tint" value="255,228,196"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,196"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,196"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,196"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,228,196,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,196"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeLavenderBlush" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,240,245"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,240,245"/>
+			<property name="CustomIconTint" value="255,240,245"/>
+			<property name="UMA.Overlay0Tint" value="255,240,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,240,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,240,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,240,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,240,245,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,240,245"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
+	<item_modifier name="modDyeMistyRose" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye" type="attachment" cosmetic_install_chance=".1">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="DescriptionKey" value="modDyeGroupDesc"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,228,225"/>
+		<property name="Material" value="Mpaint"/>
+		<property name="Weight" value="20"/>
+
+		<item_property_overrides name="*">
+			<property name="TintColor" value="255,228,225"/>
+			<property name="CustomIconTint" value="255,228,225"/>
+			<property name="UMA.Overlay0Tint" value="255,228,225"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTankTop">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,225"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtPlain">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,225"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelTShirtZU">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,225"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelCoatJacketLetterZU">
+			<property name="UMA.Overlay0Tint" value="255,228,225,255"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelDenimShortsPants">
+			<property name="UMA.Overlay0Tint" value="skin"/>
+			<property name="UMA.Overlay1Tint" value="255,228,225"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitPants">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="apparelSuitJacket">
+			<property name="UMA.Overlay0Tint" value="152,149,93"/>
+		</item_property_overrides>
+
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+
 	</append>
 	</configs>
