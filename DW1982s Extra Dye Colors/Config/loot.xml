@@ -59,8 +59,8 @@
 	    <item name="modDyePowderBlue"/>
 	    <item name="modDyeBeige"/>
 	    <item name="modDyeLavenderBlush"/>
-		<item name="PawPawsNeonPink"/>
-		<item name="Amethyst"/>
+		<item name="modDyePawPawsNeonPink"/>
+		<item name="modDyeAmethyst"/>
     </lootgroup>
 
     </append>
