@@ -4,6 +4,8 @@
 
     <!-- *** Dye_Mods -->
     <lootgroup name="dyes">
+		<item name="modDyeWhite"/>
+		<item name="modDyeOrange"/>
 	    <item name="modDyeMidnightGreen"/>
 	    <item name="modDyeNeonRed"/>
 	    <item name="modDyeNeonGreen"/>
@@ -27,10 +29,8 @@
 	    <item name="modDyeGold"/>
 	    <item name="modDyeCherryBlossumPink"/>
 	    <item name="modDyeNeonPink"/>
-	    <item name="modDyeBlueScreenOfDeath"/>
 	    <item name="modDyeOceanBlue"/>
 	    <item name="modDyeNeonFuchia"/>
-	    <item name="modDyeUnbleachedSilk"/>
 	    <item name="modDyeTrueBlack"/>
 	    <item name="modDyeWhiteSmoke"/>
 	    <item name="modDyeGainsboro"/>
@@ -45,10 +45,8 @@
 	    <item name="modDyeAliceBlue"/>
 	    <item name="modDyeFloralWhite"/>
 	    <item name="modDyeLavender"/>
-	    <item name="modDyeMintCream"/>
 	    <item name="modDyeLightSteelBlue"/>
 	    <item name="modDyeLightSlateGray"/>
-	    <item name="modDyeSeaShell"/>
 	    <item name="modDyePapayaWhip"/>
 	    <item name="modDyePeachPuff"/>
 	    <item name="modDyeNavajoWhite"/>
@@ -56,20 +54,13 @@
 	    <item name="modDyeRosyBrown"/>
 	    <item name="modDyeAntiqueWhite"/>
 	    <item name="modDyeViolet"/>
-	    <item name="modDyeDarkViolet"/>
-	    <item name="modDyeMediumVioletRed"/>
 	    <item name="modDyeBlueViolet"/>
-	    <item name="modDyeLightSkyBlue"/>
-	    <item name="modDyeSkyBlue"/>
 	    <item name="modDyeDodgerBlue"/>
-	    <item name="modDyeDeepSkyBlue"/>
-	    <item name="modDyeMediumTurquoise"/>
 	    <item name="modDyePowderBlue"/>
-	    <item name="modDyeCadetBlue"/>
 	    <item name="modDyeBeige"/>
-	    <item name="modDyeBisque"/>
 	    <item name="modDyeLavenderBlush"/>
-	    <item name="modDyeMistyRose"/>
+		<item name="PawPawsNeonPink"/>
+		<item name="Amethyst"/>
     </lootgroup>
 
     </append>

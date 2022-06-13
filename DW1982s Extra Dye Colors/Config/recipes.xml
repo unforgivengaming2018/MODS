@@ -1,0 +1,409 @@
+<config>
+    <set xpath="/recipes">
+
+    <!--Craftable Dyes-->
+	<recipe name="modDyeWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeYellow" count="1"/>
+		<ingredient name="modDyeMagenta" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeRed" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="resourceCropChrysanthemumPlant" count="4"/>		
+    </recipe>
+
+	<recipe name="modDyeGreen" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeYellow" count="1"/>
+    </recipe>
+
+	<recipe name="modDyeBlack" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="2"/>	
+		<ingredient name="modDyeRed" count="2"/>
+		<ingredient name="modDyeYellow" count="2"/>	
+	</recipe>
+
+	<recipe name="modDyeBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="foodCropBlueberries" count="4"/>	
+	</recipe>
+
+	<recipe name="modDyeBrown" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="resourceCropCoffeeBeans" count="4"/>	
+	</recipe>
+
+	<recipe name="modDyePink" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+		<ingredient name="modDyeRed" count="1"/>
+	</recipe>
+
+	<recipe name="modDyePurple" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeRed" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeYellow" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="resourceCropGoldenrodPlant" count="4"/>		
+	</recipe>
+
+	<recipe name="modDyeOrange" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyeYellow" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeMidnightGreen" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeMagenta" count="1"/>
+		<ingredient name="modDyeBlack" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNeonRed" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeMagenta" count="1"/>		
+		<ingredient name="modDyeYellow" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNeonGreen" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeYellow" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNeonBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>	
+	</recipe>
+		
+	<recipe name="modDyeNeonPurple" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeMagenta" count="1"/>
+	</recipe>
+		
+	<recipe name="modDyeKellyGreen" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeYellow" count="1"/>
+		<ingredient name="modDyeBlack" count="1"/>	
+	</recipe>
+		
+	<recipe name="modDyeHunterGreen" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeYellow" count="1"/>
+		<ingredient name="modDyeBrown" count="1"/>	
+	</recipe>
+		
+	<recipe name="modDyeHonoluluBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeGreen" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeBloodRed" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyeBrown" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeCyan" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeMagenta" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeTeal" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeGreen" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNavyBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeOrange" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeCrimson" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyePurple" count="1"/>
+	</recipe>
+		
+	<recipe name="modDyeCoral" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+		<ingredient name="modDyeOrange" count="1"/>	
+	</recipe>
+		
+	<recipe name="modDyeTurquoise" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+		<ingredient name="modDyeGreen" count="1"/>	
+		<ingredient name="modDyeWhite" count="1"/>
+	</recipe>
+		
+	<recipe name="modDyeAquaMarine" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>	
+	</recipe>
+		
+	<recipe name="modDyeRoyalBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyePurple" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeIndigo" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeSlateBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeGold" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="4"/>
+		<ingredient name="resourceGoldNugget" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeCherryBlossumPink" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNeonPink" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+        <ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeViolet" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeOceanBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeTeal" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNeonFuchia" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+		<ingredient name="modDyeCyan" count="1"/>
+		<ingredient name="modDyeViolet" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeTrueBlack" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+        <ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeWhiteSmoke" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyePink" count="1"/>
+		<ingredient name="modDyeTeal" count="1"/>	
+		<ingredient name="modDyeCyan" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeGainsboro" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeRed" count="1"/>	
+		<ingredient name="modDyeTeal" count="1"/>	
+		<ingredient name="modDyeBlue" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeLightGray" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlack" count="1"/>
+		<ingredient name="modDyeWhite" count="2"/>	
+	</recipe>
+
+	<recipe name="modDyeSilver" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="4"/>
+		<ingredient name="resourceSilverNugget" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeDarkGray" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>
+		<ingredient name="modDyeBlack" count="2"/>	
+	</recipe>
+
+	<recipe name="modDyeSnow" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="resourceSnowBall" count="4"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeAzure" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="2"/>
+		<ingredient name="modDyeWhite" count="2"/>	
+		<ingredient name="modDyePurple" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeIvory" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="2"/>
+		<ingredient name="modDyeYellow" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeHoneydew" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeGreen" count="1"/>
+		<ingredient name="modDyeYellow" count="1"/>	
+		<ingredient name="modDyeWhite" count="2"/>	
+	</recipe>
+
+	<recipe name="modDyeGhostWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="resourceSnowBall" count="10"/>
+		<ingredient name="modDyeBlack" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeAliceBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="3"/>
+		<ingredient name="modDyeGreen" count="2"/>	
+		<ingredient name="modDyeRed" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeFloralWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>
+		<ingredient name="modDyeTeal" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeLavender" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyePurple" count="1"/>	
+		<ingredient name="modDyeWhite" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeLightSteelBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyeBlue" count="1"/>
+	</recipe>
+
+	<recipe name="modDyeLightSlateGray" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeLightGray" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyePapayaWhip" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeOrange" count="1"/>
+		<ingredient name="modDyeBrown" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyePeachPuff" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeYellow" count="1"/>
+		<ingredient name="modDyeOrange" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeNavajoWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBeige" count="1"/>
+		<ingredient name="modDyeYellow" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeMoccasin" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeOrange" count="1"/>
+		<ingredient name="modDyeWhite" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeRosyBrown" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBrown" count="1"/>
+		<ingredient name="modDyePink" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeAntiqueWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="2"/>
+		<ingredient name="modDyeSilver" count="1"/>	
+		<ingredient name="modDyeBrown" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeViolet" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeMagenta" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeBlueViolet" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyeViolet" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeDodgerBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>
+		<ingredient name="modDyeAzure" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyePowderBlue" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeAliceBlue" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeBeige" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeWhite" count="2"/>
+		<ingredient name="modDyeBrown" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeLavenderBlush" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeLavender" count="1"/>
+		<ingredient name="modDyePink" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyePawPawsNeonPink" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeCrimson" count="1"/>
+		<ingredient name="modDyeCyan" count="1"/>	
+		<ingredient name="modDyePink" count="1"/>	
+	</recipe>
+
+	<recipe name="modDyeAmethyst" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="modDyeBlue" count="1"/>
+		<ingredient name="modDyePurple" count="1"/>	
+	</recipe>
+
+	</set>
+	</config>
