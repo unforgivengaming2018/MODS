@@ -1,5 +1,5 @@
 <config>
-    <set xpath="/recipes">
+    <append xpath="/recipes">
 
     <!--Craftable Dyes-->
 	<recipe name="modDyeWhite" count="1" craft_area="campfire" craft_tool="toolCookingPot" always_unlocked="true">
@@ -405,5 +405,5 @@
 		<ingredient name="modDyePurple" count="1"/>	
 	</recipe>
 
-	</set>
+	</append>
 	</config>
