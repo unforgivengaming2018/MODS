@@ -1,0 +1,321 @@
+<SEOR>
+<!-- This Adds more color varriants to the bedrolls when you hold E -->
+
+<append xpath="/blocks">
+    <!--NeonPink-->
+    <block name="bedrollNeonPink">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="C724B1"/>
+        <property name="TintColor" value="C724B1"/>
+    </block>
+
+    <!--MidnightBlue-->
+    <block name="bedrollMidnightBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="13294B"/>
+        <property name="TintColor" value="13294B"/>
+    </block>
+
+    <!--Tiger orange-->
+    <block name="bedrollTigerOrange">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="F96815"/>
+        <property name="TintColor" value="F96815"/>
+    </block>
+
+    <!-- Midnight Green-->
+    <block name="bedrollMidnightGreen">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="004C54"/>
+        <property name="TintColor" value="004C54"/>
+    </block>
+
+    <!--BlueScreenOfDeath-->
+    <block name="bedrollBlueScreenOfDeath">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="0827F5"/>
+        <property name="TintColor" value="0827F5"/>
+    </block>
+
+    <!--RacingRed-->
+    <block name="bedrollRacingRed">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="BD162C"/>
+        <property name="TintColor" value="BD162C"/>
+    </block>
+
+    <!--Ocean Blue -->
+    <block name="bedrollOceanBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="005EB8"/>
+        <property name="TintColor" value="005EB8"/>
+    </block>
+     
+    <!--Army Blue-->
+    <block name="bedrollArmyBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="41533b"/>
+        <property name="TintColor" value="41533b"/>
+    </block>
+
+    <!--Army Brown-->
+    <block name="bedrollArmyBrown">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="604439"/>
+        <property name="TintColor" value="604439"/>
+    </block>
+
+    <!--Dirty Bean Water-->
+    <block name="bedrollDirtyBeanWater">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="3b2f2f"/>
+        <property name="TintColor" value="3b2f2f"/>
+    </block>
+
+    <!-- GoldenRod Tea-->
+    <block name="bedrollGoldenRodTea">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="ffb90f"/>
+        <property name="TintColor" value="ffb90f"/>
+    </block>
+
+    <!--Deep Jungle Green-->
+    <block name="bedrollDeepJungleGreen">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="004b49"/>
+        <property name="TintColor" value="004b49"/>
+    </block>
+
+    <!--Neon Red-->
+    <block name="bedrollNeonRed">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="D22730"/>
+        <property name="TintColor" value="D22730"/>
+    </block>
+
+    <!--Neon Blue-->
+    <block name="bedrollNeonBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="4D4DFF"/>
+        <property name="TintColor" value="4D4DFF"/>
+    </block>
+
+    <!--Neon Purple-->
+    <block name="bedrollNeonPurple">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="C724B1"/>
+        <property name="TintColor" value="C724B1"/>
+    </block>
+
+    <!--Kelly Green-->
+    <block name="bedrollKellyGreen">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="046A38"/>
+        <property name="TintColor" value="046A38"/>
+    </block>
+
+    <!--Hunter Green-->
+    <block name="bedrollHunterGreen">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="44693D"/>
+        <property name="TintColor" value="44693D"/>
+    </block>
+
+    <!--Honolulu Blue-->
+    <block name="bedrollHonoluluBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="0076B6"/>
+        <property name="TintColor" value="0076B6"/>
+    </block>
+
+    <!--Blood Red-->
+    <block name="bedrollBloodRed">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="651C32"/>
+        <property name="TintColor" value="651C32"/>
+    </block>
+
+    <!--Cyan-->
+    <block name="bedrollCyan">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="00BCE3"/>
+        <property name="TintColor" value="00BCE3"/>
+    </block>
+
+    <!--Magenta-->
+    <block name="bedrollMagenta">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="DB3EB1"/>
+        <property name="TintColor" value="DB3EB1"/>
+    </block>
+
+    <!--Teal-->
+    <block name="bedrollTeal">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="007C80"/>
+        <property name="TintColor" value="007C80"/>
+    </block>
+
+    <!--Navy Blue-->
+    <block name="bedrollNavyBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="202A44"/>
+        <property name="TintColor" value="202A44"/>
+    </block>
+
+    <!--Crimson-->
+    <block name="bedrollCrimson">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="9D2235"/>
+        <property name="TintColor" value="9D2235"/>
+    </block>
+
+    <!--Coral Pink-->
+    <block name="bedrollCoralPink">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="F2827F"/>
+        <property name="TintColor" value="F2827F"/>
+    </block>
+
+    <!--Royal Blue-->
+    <block name="bedrollRoyalBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="5576D1"/>
+        <property name="TintColor" value="5576D1"/>
+    </block>
+
+    <!--Indigo-->
+    <block name="bedrollIndigo">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="4B0082"/>
+        <property name="TintColor" value="4B0082"/>
+    </block>
+
+    <!--Gold-->
+    <block name="bedrollGold">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="FFB81C"/>
+        <property name="TintColor" value="FFB81C"/>
+    </block>
+
+    <!--Sky Blue-->
+    <block name="bedrollSkyBlue">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="00B5E2"/>
+        <property name="TintColor" value="00B5E2"/>
+    </block>
+
+    <!--Brick Red-->
+    <block name="bedrollBrickRed">
+        <property name="Extends" value="bedroll"/>
+        <property name="CreativeMode" value="Player"/>
+        <property name="Model" value="Entities/RespawnPoints/bedRollPrefab"/>
+        <property name="CustomIcon" value="bedroll"/>
+        <property name="CustomIconTint" value="CB4154"/>
+        <property name="TintColor" value="CB4154"/>
+    </block>
+
+    <!-- NOT_A_SHAPE -->
+    <block name="bedrollBlockVariantHelper">
+    	<property name="Extends" value="bedroll"/>
+    	<property name="CustomIcon" value="bedroll"/>
+    	<property name="CustomIconTint" value="764C22"/>
+    	<property name="CreativeMode" value="Player"/>
+    	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+    	<property name="ItemTypeIcon" value="all_blocks"/>
+    	<property name="SelectAlternates" value="true"/>
+    	<property name="PlaceAltBlockValue" value="bedroll,bedrollRed,bedrollOrange,bedrollYellow,bedrollGreen,bedrollBlue,bedrollPurple,bedrollPink,bedrollGrey,bedrollWhite,bedrollArmyGreen,bedrollNeonPink,bedrollMidnightBlue,bedrollMidnightGreen,bedrollBlueScreenOfDeath,bedrollRacingRed,bedrollOceanBlue,bedrollArmyBlue,bedrollArmyBrown,bedrollDirtyBeanWater,bedrollGoldenRodTea,bedrollDeepJungleGreen,bedrollNeonRed,bedrollNeonBlue,bedrollNeonPurple,bedrollKellyGreen,bedrollHunterGreen,bedrollHonoluluBlue,bedrollBloodRed,bedrollCyan,bedrollMagenta,bedrollTeal,bedrollNavyBlue,bedrollCrimson,bedrollCoralPink,bedrollRoyalBlue,bedrollIndigo,bedrollGold,bedrollSkyBlue,bedrollBrickRed"/>
+    	<property name="Group" value="Basics,Building,advBuilding"/>
+    	<property name="PickupJournalEntry" value="shapeMenuTip"/>
+    	<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+    </block>
+
+</append>
+</SEOR>
